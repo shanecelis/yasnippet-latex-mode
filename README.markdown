@@ -8,6 +8,15 @@ Collection of Latex Mode snippets for
 [yasnippet](http://code.google.com/p/yasnippet/ "yasnippet - Google
 Code").
 
+Installation
+------------
+
+Do the git clone in the right place and that should be it.
+
+    $ cd ~/.emacs.d/yasnippet/snippets/text-mode; # or whereever you have yasnippet installed
+    $ git clone git://github.com/secelis/yasnippet-latex-mode.git latex-mode; # it must be named "latex-mode"
+
+
 Contributors
 ------------
 
