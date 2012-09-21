@@ -5,7 +5,7 @@ About
 -----
 
 Collection of Latex Mode snippets for
-[yasnippet](http://code.google.com/p/yasnippet/ "yasnippet - Google
+[yasnippet](https://github.com/capitaomorte/yasnippet "yasnippet - Google
 Code").
 
 Installation
