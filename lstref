@@ -1,4 +1,4 @@
 #contributor : Shane Celis (shane (at) gnufoo (dot) org)
-#name : ref
+#name : lstref
 # --
-\ref{$1}$0
+Listing~\ref{$1}$0

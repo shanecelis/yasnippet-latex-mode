@@ -1,4 +1,4 @@
 #contributor : Shane Celis (shane (at) gnufoo (dot) org)
-#name : ref
+#name : verb - begin a one line tag
 # --
-\ref{$1}$0
+\\verb|$1|$0

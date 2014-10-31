@@ -5,13 +5,12 @@
   \begin{center}
     \begin{tabular}{ ${1:| l | r |} }
       \hline
-      ${2:Name & Value \\}
+      ${2:Name & Value \\\\}
       \hline
       $0
       \hline
     \end{tabular}
   \end{center}
-  \caption{${3:caption}}
-  \label{${4:label}}
+  \caption[Short name]{\label{${4:label}}${3:caption}}
 \end{table}
 

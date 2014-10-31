@@ -1,4 +1,4 @@
 #contributor : Shane Celis (shane (at) gnufoo (dot) org)
-#name : ref
+#name : frac - make a fraction
 # --
-\ref{$1}$0
+\\frac{$1}{$2}$0

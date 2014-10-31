@@ -2,10 +2,7 @@
 #name : figure
 # --
 \begin{figure}
-  \begin{center} 
-    \input{${1:input}} 
-%    \includegraphics{${1}} 
-  \end{center} 
-  \caption{${2:caption}}
-  \label{$1}
+  \centering
+  \includegraphics{${1:filename}} 
+  \caption[Short Label]{\label{$1}${2:Caption}}
 \end{figure}
